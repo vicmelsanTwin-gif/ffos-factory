@@ -1,1 +1,24 @@
 
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f6f8;
+    color: #333333;
+    margin: 0;
+}
+
+main {
+    max-width: 900px;
+    margin: 60px auto;
+    padding: 40px;
+    background: white;
+    border-radius: 12px;
+}
+
+h1 {
+    color: #1e3a8a;
+}
+
+p {
+    font-size: 20px;
+    line-height: 1.6;
+}
